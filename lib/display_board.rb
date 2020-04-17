@@ -1,5 +1,5 @@
-answers(" ", " ", " ", " ", " ", " ", " ", " ", " ")
-def display_board(answers)
+board(" ", " ", " ", " ", " ", " ", " ", " ", " ")
+def display_board(board)
   puts " O |   |   "
   puts "-----------"
   puts "   | X |   "
