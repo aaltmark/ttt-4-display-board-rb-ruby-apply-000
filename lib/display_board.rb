@@ -1,4 +1,4 @@
-answers(" ", " ", " ", " ", " ", " ", " ", " ", " ")
+answers[" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def display_board(answers)
   puts " O |   |   "
   puts "-----------"
