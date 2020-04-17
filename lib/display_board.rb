@@ -1,5 +1,5 @@
 answers(" ", " ", " ", " ", " ", " ", " ", " ", " ")
-def display_board(board)
+def display_board(answers)
   puts " O |   |   "
   puts "-----------"
   puts "   | X |   "
