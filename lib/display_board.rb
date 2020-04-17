@@ -1,8 +1,8 @@
 answers = (" ", " ", " ", " ", " ", " ", " ", " ", " ")
 def display_board(answers)
-  puts " O |   |   "
+  puts "  |   |    "
   puts "-----------"
-  puts "   | X |   "
+  puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
 end
