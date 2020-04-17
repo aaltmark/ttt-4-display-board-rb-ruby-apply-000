@@ -1,4 +1,3 @@
-answers = (" ", " ", " ", " ", " ", " ", " ", " ", " ")
 def display_board(answers)
   puts "  |   |    "
   puts "-----------"
